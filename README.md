@@ -21,19 +21,19 @@ Fill in password, as well as put your own secret string for JWT token authentica
 
 In command line / shell (was made and tested on Windows with standard CMD):
 
-'''
+```
 cd "(project location)\\technical test\\node-mysql-api"
 npm install
 npm start
-'''
+```
 
 Open new command line window.
 
-'''
+```
 cd "(project location)\\technical test\\react-redux-login"
 npm install
 npm start
-'''
+```
 
 Above should start the browser. If not, open the browser and go to http://localhost:8080
 There you can register, and if you did, then log in and either delete user data or log out.
