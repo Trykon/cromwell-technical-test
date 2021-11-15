@@ -10,7 +10,7 @@ https://nodejs.org/en/download/
 
 ### 3. Install and run MySQL Community Server
 
-https://dev.mysql.com/downloads/mysql/ \n
+https://dev.mysql.com/downloads/mysql/  
 https://dev.mysql.com/doc/refman/8.0/en/installing.html
 
 ### 4. Add root password to \\node-mysql-api\\config.json
@@ -35,11 +35,11 @@ npm install
 npm start
 ```
 
-Above should start the browser. If not, open the browser and go to http://localhost:8080 \n
+Above should start the browser. If not, open the browser and go to http://localhost:8080  
 There you can register, and if you did, then log in and either delete user data or log out.
 
 ## Other mentions
 
-Two separate projects are combined in one to create working system. \n
-This was done using code found online as a starting point and a template, especially noting the fact that as I said I am new to react. \n
+Two separate projects are combined in one to create working system.  
+This was done using code found online as a starting point and a template, especially noting the fact that as I said I am new to react.  
 I would say "googling stuff" is one of my strengths. Whatever I cannot do, I can google how to do it.
